@@ -2152,14 +2152,18 @@
       </ValidationIssue>
     </ItemGroup>
 
-    <ItemGroup>
-      <WorkerRoleReferences Condition="@(WorkerRoleReferences) != '' And '%(WorkerRoleReferences.ProjectName)' == '$(RoleProjectName)' And '$(RoleTargetFrameworkMonikerIsValid)' != 'True'">
+    <PropertyGroup>
+      <TempTargetOSFamily>%(TargetOSFamily.Identity)</TempTargetOSFamily>
+    </PropertyGroup>
+
+     <ItemGroup>
+      <WorkerRoleReferences Condition=" '$(TempTargetOSFamily)' &lt; '5' Or ( @(WorkerRoleReferences) != '' And '%(WorkerRoleReferences.ProjectName)' == '$(RoleProjectName)' And '$(RoleTargetFrameworkMonikerIsValid)' != 'True')">
         <RoleTargetFramework>$(DefaultTargetFrameWorkVersion)</RoleTargetFramework>
       </WorkerRoleReferences>
     </ItemGroup>
 
     <ItemGroup>
-      <WebRoleReferences Condition="@(WebRoleReferences) != '' And '%(WebRoleReferences.ProjectName)' == '$(RoleProjectName)' And '$(RoleTargetFrameworkMonikerIsValid)' != 'True'">
+      <WebRoleReferences Condition=" '$(TempTargetOSFamily)' &lt; '5' Or ( @(WebRoleReferences) != '' And '%(WebRoleReferences.ProjectName)' == '$(RoleProjectName)' And '$(RoleTargetFrameworkMonikerIsValid)' != 'True')">
         <RoleTargetFramework>$(DefaultTargetFrameWorkVersion)</RoleTargetFramework>
       </WebRoleReferences>
     </ItemGroup>
