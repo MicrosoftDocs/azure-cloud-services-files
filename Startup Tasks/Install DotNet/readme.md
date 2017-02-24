@@ -1,0 +1,1 @@
+Based on https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-dotnet-install-dotnet
