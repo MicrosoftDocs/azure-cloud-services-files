@@ -1,6 +1,6 @@
 ### Problem
 
-.NET Framework 4.6 projects fail to deploy in Visual Studio when you use Azure SDK 2.9.
+.NET Framework 4.6 projects fail to deploy in Visual Studio when you use Azure SDK 2.9 and Guest OS Family 4 or lower.
 
 ### Solution
 
