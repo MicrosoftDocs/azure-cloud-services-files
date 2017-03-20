@@ -1,10 +1,14 @@
 ### Problem
 
-.NET Framework 4.6 projects fail to deploy in Visual Studio when you use Azure SDK 2.9 and Guest OS Family 4 or lower.
+.NET Framework 4.6 projects fail to build in Visual Studio when you use Azure SDK 2.9 and Guest OS Family 4 or lower.
 
-### Solution
+### Solution (Workaround)
 
-The MSBuild targets file the Azure SDK installed introduced this restriction. To bypass this, change the MSBuild targets file at **C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\Windows Azure Tools\2.9\Microsoft.WindowsAzure.targets**.
+>**IMPORTANT**  
+>
+>This is fixed in [Azure SDK 3.0](https://www.microsoft.com/download/details.aspx?id=54917). Please upgrade.
+
+The MSBuild targets file that Azure SDK 2.9 installed introduced this restriction. To bypass this, change the MSBuild targets file at **C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\Windows Azure Tools\2.9\Microsoft.WindowsAzure.targets**.
 
 This repo folder contains the fixed file. Here is a diff of that file starting at line **2152**.
 
