@@ -14,6 +14,12 @@
     <pubDate>July 7, 2017</pubDate>
   </item>
   
+  <item>
+    <title>July 2017 Guest OS Release</title>
+    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+    <description>The July Guest OS rollout is starting July 18, 2017 and has a projected release of August 8, 2017. </description>
+    <pubDate>July 18, 2017</pubDate>
+  </item>
 </channel>
 
 </rss>
