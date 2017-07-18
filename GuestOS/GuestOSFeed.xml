@@ -4,28 +4,28 @@
 
 <channel>
 <title>GuestOS Updates RSS Feed</title>
-<link>//https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix/</link>
+<link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
 <description>Azure Guest OS releases and SDK compatibility matrix</description>
 
   <item>
     <title>June 2017 Guest OS Release</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>The June Guest OS has released</description>
-    <pubDate>July 7, 2017</pubDate>
+    <pubDate>Fri, 07 July 2017 08:00:00 PST</pubDate>
   </item>
   
   <item>
     <title>July 2017 Guest OS Release</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>The July Guest OS rollout is starting July 18, 2017 and has a projected release of August 8, 2017. </description>
-    <pubDate>July 18, 2017</pubDate>
+    <pubDate>Fri, 07 July 2017 08:00:00 PST</pubDate>
   </item>
 
  <item>
     <title>Testing RSS Updates</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>Please work even though youre a hacky mess </description>
-    <pubDate>July 18, 2017</pubDate>
+    <pubDate>Fri, 07 July 2017 08:00:00 PST</pubDate>
   </item>
 
 
