@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<rss version="2.0">
+<rss version="2.0"  xmlns:atom="http://www.w3.org/2005/Atom">
 
 
 <channel>
@@ -11,24 +11,22 @@
     <title>June 2017 Guest OS Release</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>The June Guest OS has released</description>
-    <pubDate>Fri, 07 July 2017 08:00:00 PST</pubDate>
   </item>
   
   <item>
     <title>July 2017 Guest OS Release</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>The July Guest OS rollout is starting July 18, 2017 and has a projected release of August 8, 2017. </description>
-    <pubDate>Fri, 07 July 2017 08:00:00 PST</pubDate>
   </item>
 
  <item>
     <title>Testing RSS Updates</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>Please work even though youre a hacky mess </description>
-    <pubDate>Fri, 07 July 2017 08:00:00 PST</pubDate>
   </item>
 
 
+<atom:link href="https://raw.githubusercontent.com/MicrosoftDocs/azure-cloud-services-files/testRSS/GuestOS/GuestOSFeed.xml" rel="self" type="application/rss+xml" />
 
 </channel>
 
