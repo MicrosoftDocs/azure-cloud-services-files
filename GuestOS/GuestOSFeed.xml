@@ -39,6 +39,13 @@
     <description>testing updates3</description>
     <pubDate>Fri, 07 July 2017 15:00:00 GMT</pubDate>
   </item>
+
+   <item>
+    <title>Testing RSS Updates4</title>
+    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+    <description>testing updates4</description>
+    <pubDate>Fri, 07 August 2017 15:00:00 GMT</pubDate>
+  </item>
 </channel>
 
 </rss>
