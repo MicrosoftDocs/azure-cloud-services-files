@@ -13,53 +13,20 @@
   </item>
   
   <item>
+    <title>July 2017 Guest OS Rollout</title>
+    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+    <description>The July Guest OS rollout is starting July 18, 2017 and has a projected release of August 8, 2017 </description>
+    <pubDate>Wed, 19 July 2017 15:00:00 GMT</pubDate>
+  </item>
+
+<item>
     <title>July 2017 Guest OS Release</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
-    <description>The July Guest OS rollout is starting July 18, 2017 and has a projected release of August 8, 2017. </description>
-    <pubDate>Fri, 07 July 2017 15:00:00 GMT</pubDate>
+    <description>The July Guest OS has released </description>
+    <pubDate>Thu, 03 Aug 2017 15:00:00 GMT</pubDate>
   </item>
 
- <item>
-    <title>Testing RSS Updates</title>
-    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
-    <description>testing updates</description>
-    <pubDate>Fri, 07 July 2017 15:00:00 GMT</pubDate>
-  </item>
-
- <item>
-    <title>Testing RSS Updates2</title>
-    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
-    <description>testing updates2</description>
-    <pubDate>Fri, 07 July 2017 15:00:00 GMT</pubDate>
-  </item>
-
- <item>
-    <title>Testing RSS Updates3</title>
-    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
-    <description>testing updates3</description>
-    <pubDate>Fri, 07 July 2017 15:00:00 GMT</pubDate>
-  </item>
-
-   <item>
-    <title>Testing RSS Updates4</title>
-    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
-    <description>testing updates4</description>
-    <pubDate>Fri, 07 August 2017 15:00:00 GMT</pubDate>
-  </item>
-
-   <item>
-    <title>Testing RSS Updates5</title>
-    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
-    <description>testing updates5</description>
-    <pubDate>Fri, 07 August 2017 15:00:00 GMT</pubDate>
-  </item>
-
-  <item>
-    <title>Testing RSS Updates6</title>
-    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
-    <description>testing updates6</description>
-    <pubDate>Mon, 07 August 2017 23:32:00 GMT</pubDate>
-  </item>
+ 
 </channel>
 
 </rss>
