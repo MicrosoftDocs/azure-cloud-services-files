@@ -32,7 +32,14 @@
     <description>The August Guest OS has released </description>
     <pubDate>Thu, 24 Aug 2017 15:00:00 GMT</pubDate>
 </item>
- 
+ <item>    
+   <title>September 2017 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The September Guest OS rollout is starting September 12, 2017 and has a projected release of October 3, 2017         
+   </description>
+   <pubDate>Mon, 18 Sept 2017 15:00:00 GMT</pubDate>
+  </item>
+  
 </channel>
 
 </rss>
