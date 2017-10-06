@@ -19,25 +19,33 @@
     <pubDate>Wed, 19 July 2017 15:00:00 GMT</pubDate>
   </item>
 
-<item>
+  <item>
     <title>July 2017 Guest OS Release</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>The July Guest OS has released </description>
     <pubDate>Thu, 3 Aug 2017 15:00:00 GMT</pubDate>
-</item>
+  </item>
   
   <item>
     <title>August 2017 Guest OS Release</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>The August Guest OS has released </description>
     <pubDate>Thu, 24 Aug 2017 15:00:00 GMT</pubDate>
-</item>
- <item>    
-   <title>September 2017 Guest OS Release</title>
+  </item>
+  
+  <item>    
+   <title>September 2017 Guest OS Rollout</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The September Guest OS rollout has started on September 12, 2017 and has a projected release by October 3, 2017         
    </description>
    <pubDate>Mon, 18 Sept 2017 15:00:00 GMT</pubDate>
+  </item>
+  
+  <item>    
+   <title>September 2017 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>September Guest OS has released. For the Windows Server 2016 September release, netfx3 is enabled by default. Customers should add ‘dism /online /disable-feature /featurename:netfx3’ in their OnStart if their workflow requires them to run a .NET 2.x app with a 4.x runtime or if they ran a .NET 2.x app, handled an error, and then ran a .NET 4.x app. </description>
+   <pubDate>Fri, 6 Oct 2017 23:00:00 GMT</pubDate>
   </item>
   
 </channel>
