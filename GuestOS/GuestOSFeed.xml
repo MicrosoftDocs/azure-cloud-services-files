@@ -48,6 +48,12 @@
    <pubDate>Fri, 6 Oct 2017 23:00:00 GMT</pubDate>
   </item>
   
+  <item>    
+   <title>October 2017 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>October Guest OS has released. For the Windows Server 2016 September release, netfx3 is enabled by default. Customers should add ‘dism /online /disable-feature /featurename:netfx3’ in their OnStart if their workflow requires them to run a .NET 2.x app with a 4.x runtime or if they ran a .NET 2.x app, handled an error, and then ran a .NET 4.x app. </description>
+   <pubDate>Wednesday, 8 November 2017 9:5500 GMT</pubDate>
+  </item>
 </channel>
 
 </rss>
