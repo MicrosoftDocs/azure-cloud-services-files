@@ -9,14 +9,14 @@
     <title>June 2017 Guest OS Release</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>The June Guest OS has released</description>
-    <pubDate>Fri, 07 July 2017 15:00:00 GMT</pubDate>
+    <pubDate>Fri, 07 Jul 2017 15:00:00 GMT</pubDate>
   </item>
   
   <item>
     <title>July 2017 Guest OS Rollout</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>The July Guest OS rollout is starting July 18, 2017 and has a projected release of August 8, 2017 </description>
-    <pubDate>Wed, 19 July 2017 15:00:00 GMT</pubDate>
+    <pubDate>Wed, 19 Jul 2017 15:00:00 GMT</pubDate>
   </item>
 
   <item>
@@ -38,7 +38,7 @@
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The September Guest OS rollout has started on September 12, 2017 and has a projected release by October 3, 2017         
    </description>
-   <pubDate>Mon, 18 Sept 2017 15:00:00 GMT</pubDate>
+   <pubDate>Mon, 18 Sep 2017 15:00:00 GMT</pubDate>
   </item>
   
   <item>    
@@ -52,7 +52,7 @@
    <title>October 2017 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The October Guest OS has released </description>
-   <pubDate>Wednesday, 8 November 2017 9:55:00 GMT</pubDate>
+   <pubDate>Wed, 8 Nov 2017 9:55:00 GMT</pubDate>
   </item>
 </channel>
 
