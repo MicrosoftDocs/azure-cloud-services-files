@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+3<?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
 <channel>
 <title>GuestOS Updates RSS Feed</title>
@@ -59,7 +59,7 @@
    <title>November 2017 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The November Guest OS has released </description>
-   <pubDate>Fri, 15 Dec 2017 1:20:00 GMT</pubDate>
+   <pubDate>Fri, 15 Dec 2017 13:20:00 GMT</pubDate>
   </item>
 </channel>
 
