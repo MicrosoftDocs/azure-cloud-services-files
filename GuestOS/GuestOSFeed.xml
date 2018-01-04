@@ -61,6 +61,13 @@
    <description>The November Guest OS has released </description>
    <pubDate>Fri, 15 Dec 2017 13:20:00 GMT</pubDate>
   </item>
+  
+   <item>    
+   <title>December 2017 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The December Guest OS has released </description>
+   <pubDate>Thu, 4 Jan 2018 19:00:00 GMT</pubDate>
+  </item>
 </channel>
 
 </rss>
