@@ -75,6 +75,14 @@
    <description>The January Guest OS has been released for OS Families 4 (WA-GUEST-OS-4.50_201801-01) & 5 (WA-GUEST-OS-5.15_201801-01) and contains important security patches. </description>
    <pubDate>Thu, 4 Jan 2018 23:00:00 GMT</pubDate>
   </item>
+  
+  <item>    
+   <title>January 2018 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The January Guest OS has released </description>
+   <pubDate>Mon, 29 Jan 2018 10:26:00 GMT</pubDate>
+  </item>
+  
 </channel>
 
 </rss>
