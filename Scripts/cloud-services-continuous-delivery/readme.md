@@ -1,4 +1,6 @@
-> The script in this folder was taken from the following article which has now been retired. The article was located at https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-dotnet-continuous-delivery and was retired on 02/13/2018. The article has been reproduced here to give the script context. Neither the article nor the script have been validated or verified.
+# ARCHIVED
+
+> The script in this folder was taken from the following article which has now been retired. The article was located at https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-dotnet-continuous-delivery and was retired on 02/13/2018. The article has been reproduced here to give the script context. Neither the article nor the script have been verified as working.
 >
 >**USE AT YOUR OWN RISK**
 
