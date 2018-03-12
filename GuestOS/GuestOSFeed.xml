@@ -83,6 +83,13 @@
    <pubDate>Mon, 29 Jan 2018 10:26:00 GMT</pubDate>
   </item>
   
+  <item>    
+   <title>February 2018 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The February Guest OS except 2012 Server OSfamily has been released. Server 2012 OSfamily will be released soon as well. </description>
+   <pubDate>Mon, 12 March 2018 07:10:00 GMT</pubDate>
+  </item>
+  
 </channel>
 
 </rss>
