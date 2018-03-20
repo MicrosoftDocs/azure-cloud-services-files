@@ -72,7 +72,7 @@
   <item>    
    <title>January 2018 Guest OS Release for OS Families 4 and 5</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
-   <description>The January Guest OS has been released for OS Families 4 (WA-GUEST-OS-4.50_201801-01) & 5 (WA-GUEST-OS-5.15_201801-01) and contains important security patches. </description>
+   <description>The January Guest OS has been released for OS Families 4 (WA-GUEST-OS-4.50_201801-01) and 5 (WA-GUEST-OS-5.15_201801-01) and contains important security patches. </description>
    <pubDate>Thu, 4 Jan 2018 23:00:00 GMT</pubDate>
   </item>
   
@@ -86,7 +86,7 @@
   <item>    
    <title>February 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
-   <description>The February Guest OS except 2012 Server OSfamily has been released. Server 2012 OSfamily will be released soon as well. </description>
+   <description>The February Guest OS except 2012 Server OSfamily has been released. Server 2012 OS will be released soon as well. </description>
    <pubDate>Mon, 12 March 2018 07:10:00 GMT</pubDate>
   </item>
   
