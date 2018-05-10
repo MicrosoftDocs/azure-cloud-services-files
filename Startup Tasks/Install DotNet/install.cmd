@@ -58,7 +58,7 @@ set netfxregkey="0x709fc"
 goto logtimestamp
 
 :NDP472
-set "netfxinstallfile=NDP472-KB4054531-Web"
+set "netfxinstallfile=NDP472-KB4054531-Web.exe"
 set netfxregkey="0x70BF6"
 goto logtimestamp
 
