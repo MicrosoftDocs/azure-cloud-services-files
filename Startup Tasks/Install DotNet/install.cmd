@@ -5,7 +5,7 @@ REM ***** To install .NET 4.6.1 set the variable netfx to "NDP461" ***** http://
 REM ***** To install .NET 4.6.2 set the variable netfx to "NDP462" *****
 REM ***** To install .NET 4.7 set the variable netfx to "NDP47" ***** 
 REM ***** To install .NET 4.7.1 set the variable netfx to "NDP471" ***** http://go.microsoft.com/fwlink/?LinkId=852095
-REM ***** To install .NET 4.7.2 set the variable netfx to "NDP472" ***** https://www.microsoft.com/net/download/thank-you/net472-offline
+REM ***** To install .NET 4.7.2 set the variable netfx to "NDP472" ***** http://go.microsoft.com/fwlink/?LinkId=863262
 set netfx="NDP472"
 
 REM ***** Set script start timestamp *****
@@ -58,7 +58,7 @@ set netfxregkey="0x709fc"
 goto logtimestamp
 
 :NDP472
-set "netfxinstallfile=NDP472-KB4054530-x86-x64-AllOS-ENU.exe"
+set "netfxinstallfile=NDP472-KB4054531-Web"
 set netfxregkey="0x70BF6"
 goto logtimestamp
 
