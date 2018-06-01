@@ -110,6 +110,12 @@
    <description>The April Guest OS has released </description>
    <pubDate>Mon, 7 April 2018 08:21:00 GMT</pubDate>
   </item>
+  <item>    
+   <title>June 2018 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The May Guest OS has released </description>
+   <pubDate>Fri, 1 June 2018 021:30:00 GMT</pubDate>
+  </item>
 </channel>
 
 </rss>
