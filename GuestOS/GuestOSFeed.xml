@@ -122,6 +122,11 @@
    <description>The June Guest OS has released </description>
    <pubDate>Tue, 3 July 2018 021:30:00 GMT</pubDate>
   </item>
+    <title>July 2018 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The July Guest OS has released </description>
+   <pubDate>Fri, 3 August 2018 021:30:00 GMT</pubDate>
+  </item>
 </channel>
 
 </rss>
