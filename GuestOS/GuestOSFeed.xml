@@ -23,7 +23,7 @@
     <title>July 2017 Guest OS Release</title>
     <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
     <description>The July Guest OS has released </description>
-    <pubDate>Thu, 3 Aug 2017 15:00:00 GMT</pubDate>
+    <pubDate>Thu, 03 Aug 2017 15:00:00 GMT</pubDate>
   </item>
   
   <item>
@@ -45,14 +45,14 @@
    <title>September 2017 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>September Guest OS has released. For the Windows Server 2016 September release, netfx3 is enabled by default. Customers should add ‘dism /online /disable-feature /featurename:netfx3’ in their OnStart if their workflow requires them to run a .NET 2.x app with a 4.x runtime or if they ran a .NET 2.x app, handled an error, and then ran a .NET 4.x app. </description>
-   <pubDate>Fri, 6 Oct 2017 23:00:00 GMT</pubDate>
+   <pubDate>Fri, 06 Oct 2017 23:00:00 GMT</pubDate>
   </item>
   
   <item>    
    <title>October 2017 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The October Guest OS has released </description>
-   <pubDate>Wed, 8 Nov 2017 9:55:00 GMT</pubDate>
+   <pubDate>Wed, 08 Nov 2017 9:55:00 GMT</pubDate>
   </item>
   
   <item>    
@@ -66,14 +66,14 @@
    <title>December 2017 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The December Guest OS has released </description>
-   <pubDate>Thu, 4 Jan 2018 19:00:00 GMT</pubDate>
+   <pubDate>Thu, 04 Jan 2018 19:00:00 GMT</pubDate>
   </item>
   
   <item>    
    <title>January 2018 Guest OS Release for OS Families 4 and 5</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The January Guest OS has been released for OS Families 4 (WA-GUEST-OS-4.50_201801-01) and 5 (WA-GUEST-OS-5.15_201801-01) and contains important security patches. </description>
-   <pubDate>Thu, 4 Jan 2018 23:00:00 GMT</pubDate>
+   <pubDate>Thu, 04 Jan 2018 23:00:00 GMT</pubDate>
   </item>
   
   <item>    
@@ -108,25 +108,25 @@
    <title>April 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The April Guest OS has released </description>
-   <pubDate>Mon, 7 April 2018 08:21:00 GMT</pubDate>
+   <pubDate>Mon, 07 April 2018 08:21:00 GMT</pubDate>
   </item>
   <item>    
    <title>May 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The May Guest OS has released </description>
-   <pubDate>Fri, 1 June 2018 021:30:00 GMT</pubDate>
+   <pubDate>Fri, 01 June 2018 021:30:00 GMT</pubDate>
   </item>
   <item>    
    <title>June 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The June Guest OS has released </description>
-   <pubDate>Tue, 3 July 2018 021:30:00 GMT</pubDate>
+   <pubDate>Tue, 03 July 2018 021:30:00 GMT</pubDate>
   </item>
   <item>    
    <title>July 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The July Guest OS has released </description>
-   <pubDate>Fri, 3 August 2018 021:30:00 GMT</pubDate>
+   <pubDate>Fri, 03 August 2018 021:30:00 GMT</pubDate>
   </item>
 </channel>
 
