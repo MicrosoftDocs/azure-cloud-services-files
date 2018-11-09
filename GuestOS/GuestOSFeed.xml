@@ -140,6 +140,12 @@
    <description>The September Guest OS has released </description>
    <pubDate>Fri, 12 Oct 2018 20:53:00 GMT</pubDate>
   </item>
+  <item>    
+   <title>October 2018 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The October Guest OS has released </description>
+   <pubDate>Fri, 09 Nov 2018 10:49:00 PST</pubDate>
+  </item>
 </channel>
 
 </rss>
