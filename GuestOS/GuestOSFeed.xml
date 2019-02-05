@@ -164,6 +164,12 @@
    <description>Family 6 Guest OS (Windows Server 2019) has released</description>
    <pubDate>Thu, 24 Jan 2019 18:00:00 PST</pubDate>
   </item>
+  <item>    
+   <title>January 2019 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The January Guest OS has released </description>
+   <pubDate>Tue, 05 Feb 2019 12:00:00 PST</pubDate>
+  </item>
 </channel>
 
 </rss>
