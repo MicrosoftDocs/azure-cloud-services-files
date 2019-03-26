@@ -176,6 +176,12 @@
    <description>The February Guest OS has released </description>
    <pubDate>Tue, 12 Mar 2019 09:00:00 PST</pubDate>
   </item>
+  <item>
+   <title>March 2019 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The March Guest OS has released </description>
+   <pubDate>Tue, 26 Mar 2019 14:00:00 PST</pubDate>
+  </item>
 </channel>
 
 </rss>
