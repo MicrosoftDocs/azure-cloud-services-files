@@ -182,6 +182,24 @@
    <description>The March Guest OS has released </description>
    <pubDate>Tue, 26 Mar 2019 14:00:00 PST</pubDate>
   </item>
+  <item>
+   <title>April 2019 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The April Guest OS has released </description>
+   <pubDate>Tue, 7 May 2019 14:00:00 PST</pubDate>
+  </item>
+  <item>
+   <title>May 2019 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The May Guest OS has released </description>
+   <pubDate>Thu, 6 Jun 2019 14:00:00 PST</pubDate>
+  </item>
+  <title>June 2019 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The June Guest OS has released </description>
+   <pubDate>Mon, 8 Jul 2019 14:00:00 PST</pubDate>
+  </item>
+  
 </channel>
 
 </rss>
