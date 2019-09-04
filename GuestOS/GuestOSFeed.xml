@@ -198,13 +198,21 @@
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The June Guest OS has released </description>
    <pubDate>Mon, 8 Jul 2019 14:00:00 PST</pubDate>
+  
   </item>
   <title>July 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The July Guest OS has released </description>
    <pubDate>Fri, 26 Jul 2019 14:00:00 PST</pubDate>
   </item>
-  
+
+  </item>
+  <title>August 2019 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The August Guest OS has released </description>
+   <pubDate>Wed, 3 Sept 2019 17:00:00 PST</pubDate>
+  </item>
+
 </channel>
 
 </rss>
