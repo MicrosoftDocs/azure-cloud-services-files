@@ -213,6 +213,13 @@
    <pubDate>Wed, 4 Sept 2019 14:00:00 PST</pubDate>
   </item>
 
+  </item>
+  <title>September 2019 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The September Guest OS has released </description>
+   <pubDate>Mon, 7 Oct 2019 14:00:00 PST</pubDate>
+  </item>
+
 </channel>
 
 </rss>
