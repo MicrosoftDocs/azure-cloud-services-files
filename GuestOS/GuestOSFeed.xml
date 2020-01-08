@@ -110,124 +110,141 @@
    <description>The April Guest OS has released </description>
    <pubDate>Fri, 04 May 2018 08:21:00 GMT</pubDate>
   </item>
+  
   <item>    
    <title>May 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The May Guest OS has released </description>
    <pubDate>Fri, 01 Jun 2018 21:30:00 GMT</pubDate>
   </item>
+  
   <item>    
    <title>June 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The June Guest OS has released </description>
    <pubDate>Tue, 03 Jul 2018 21:30:00 GMT</pubDate>
   </item>
+  
   <item>    
    <title>July 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The July Guest OS has released </description>
    <pubDate>Fri, 03 Aug 2018 21:30:00 GMT</pubDate>
   </item>
+  
   <item>    
    <title>August 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The August Guest OS has released </description>
    <pubDate>Wed, 12 Sep 2018 15:37:00 GMT</pubDate>
   </item>
+  
   <item>    
    <title>September 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The September Guest OS has released </description>
    <pubDate>Fri, 12 Oct 2018 20:53:00 GMT</pubDate>
   </item>
+  
   <item>    
    <title>October 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The October Guest OS has released </description>
    <pubDate>Fri, 09 Nov 2018 10:49:00 PST</pubDate>
   </item>
+  
   <item>    
    <title>November 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The November Guest OS has released </description>
    <pubDate>Fri, 14 Dec 2018 20:00:00 PST</pubDate>
   </item>
+  
   <item>    
    <title>December 2018 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The December Guest OS has released </description>
    <pubDate>Mon, 07 Jan 2019 14:00:00 PST</pubDate>
   </item>
+  
   <item>    
    <title>Family 6 Guest OS (Windows Server 2019) Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>Family 6 Guest OS (Windows Server 2019) has released</description>
    <pubDate>Thu, 24 Jan 2019 18:00:00 PST</pubDate>
   </item>
+  
   <item>    
    <title>January 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The January Guest OS has released </description>
    <pubDate>Tue, 05 Feb 2019 12:00:00 PST</pubDate>
   </item>
+  
   <item>
    <title>February 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The February Guest OS has released </description>
    <pubDate>Tue, 12 Mar 2019 09:00:00 PST</pubDate>
   </item>
+  
   <item>
    <title>March 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The March Guest OS has released </description>
    <pubDate>Tue, 26 Mar 2019 14:00:00 PST</pubDate>
   </item>
+  
   <item>
    <title>April 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The April Guest OS has released </description>
    <pubDate>Tue, 7 May 2019 14:00:00 PST</pubDate>
   </item>
+  
   <item>
    <title>May 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The May Guest OS has released </description>
    <pubDate>Thu, 6 Jun 2019 14:00:00 PST</pubDate>
   </item>
+  
+  <item>
   <title>June 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The June Guest OS has released </description>
    <pubDate>Mon, 8 Jul 2019 14:00:00 PST</pubDate>
-  
   </item>
+  
+  <item>
   <title>July 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The July Guest OS has released </description>
    <pubDate>Fri, 26 Jul 2019 14:00:00 PST</pubDate>
   </item>
 
-  </item>
+  <item>
   <title>August 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The August Guest OS has released </description>
    <pubDate>Wed, 4 Sept 2019 14:00:00 PST</pubDate>
   </item>
 
-  </item>
+  <item>
   <title>September 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The September Guest OS has released </description>
    <pubDate>Mon, 7 Oct 2019 14:00:00 PST</pubDate>
   </item>
 
-  </item>
+  <item>
   <title>October 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The October Guest OS has released </description>
    <pubDate>Fri, 1 Nov 2019 09:30:00 PST</pubDate>
   </item>
 
-  </item>
+  <item>
   <title>November 2019 Guest OS Release</title>
    <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
    <description>The November Guest OS has released </description>
