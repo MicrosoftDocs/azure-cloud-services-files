@@ -251,6 +251,13 @@
    <pubDate>Thu, 5 Dec 2019 14:30:00 PST</pubDate>
   </item>
 
-</channel>
+  <item>
+  <title>December 2019 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The December Guest OS has released </description>
+   <pubDate>Wed, 8 Jan 2020 14:30:00 PST</pubDate>
+  </item>
+
+  </channel>
 
 </rss>
