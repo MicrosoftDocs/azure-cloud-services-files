@@ -265,6 +265,13 @@
    <pubDate>Fri, 24 Jan 2020 15:00:00 PST</pubDate>
   </item>
   
+  <item>
+  <title>February 2020 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The February Guest OS has released </description>
+   <pubDate>Thu, 5 March 2020 15:00:00 PST (23:00 UST)</pubDate>
+  </item>
+  
   </channel>
 
 </rss>
