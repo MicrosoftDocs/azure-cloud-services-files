@@ -279,6 +279,13 @@
    <pubDate>Thu, 2 April 2020 11:30:00 PST (18:30:00 UST)</pubDate>
   </item>
   
+  <item>
+  <title>April 2020 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The April Guest OS has released </description>
+   <pubDate>Mon, 4 May 2020 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
+  
   </channel>
 
 </rss>
