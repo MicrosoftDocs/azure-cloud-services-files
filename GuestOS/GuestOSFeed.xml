@@ -292,6 +292,13 @@
    <description>The May Guest OS has released </description>
    <pubDate>Tue, 2 June 2020 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
+
+  <item>
+  <title>June 2020 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The June Guest OS has released </description>
+   <pubDate>Mon, 10 August 2020 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
   
   </channel>
 
