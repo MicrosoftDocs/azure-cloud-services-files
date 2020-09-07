@@ -307,6 +307,13 @@
    <pubDate>Mon, 17 August 2020 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
   
+  <item>
+  <title>August 2020 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The August Guest OS has released </description>
+   <pubDate>Mon, 07 September 2020 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
+  
   </channel>
 
 </rss>
