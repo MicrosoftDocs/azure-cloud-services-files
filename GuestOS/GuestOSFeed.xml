@@ -321,6 +321,13 @@
    <pubDate>Mon, 12 October 2020 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
   
+  <item>
+  <title>October 2020 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The October Guest OS has released </description>
+   <pubDate>Tue, 17 November 2020 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
+  
   </channel>
 
 </rss>
