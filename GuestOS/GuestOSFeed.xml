@@ -384,5 +384,13 @@
    <pubDate>Thursday, 1 July 2021 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
   
+  
+   <item>
+  <title>July 2021 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The July Guest OS has released </description>
+   <pubDate>Friday, 13 August 2021 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
+  
   </channel>
 </rss>
