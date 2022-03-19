@@ -442,5 +442,12 @@
    <pubDate>Wednesday, 3 March 2022 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
   
+  
+   <item>
+  <title>March 2022 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The March Guest OS has released </description>
+   <pubDate>Wednesday, 19 March 2022 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
   </channel>
 </rss>
