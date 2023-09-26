@@ -570,5 +570,12 @@
    <pubDate>Monday, 21 August 2023 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
   
+  <item>
+  <title>September 2023 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The September Guest OS has released </description>
+   <pubDate>Tuesday, 25 September 2023 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
+  
   </channel>
 </rss>
