@@ -583,8 +583,27 @@
    <description>The October Guest OS has released </description>
    <pubDate>Monday, 23 October 2023 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
-
   
+  <item>
+  <title>November 2023 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The November Guest OS has released </description>
+   <pubDate>Friday, 8 December 2023 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
+  
+  <item>
+  <title>December 2023 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The November Guest OS has released </description>
+   <pubDate>Tuesday, 16 January 2024 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
+  
+  <item>
+  <title>January 2024 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The November Guest OS has released </description>
+   <pubDate>Monday, 22 January 2024 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
   
   </channel>
 </rss>
