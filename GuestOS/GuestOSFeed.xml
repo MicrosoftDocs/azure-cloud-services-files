@@ -611,6 +611,13 @@
    <description>The February Guest OS has released </description>
    <pubDate>Saturday, 24 February 2023 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
+
+  <item>
+  <title>March 2023 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The March Guest OS has released </description>
+   <pubDate>Tuesday, 9 April 2023 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
   
   </channel>
 </rss>
