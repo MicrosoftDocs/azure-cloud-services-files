@@ -682,5 +682,12 @@
    <pubDate>Wednesday, 5 February 2025 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
   
+  <item>
+   <title>Feb 2025 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The February Guest OS has released </description>
+   <pubDate>Wednesday, 26 February 2025 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
+  
 </channel>
 </rss>
