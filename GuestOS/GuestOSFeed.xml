@@ -696,5 +696,12 @@
    <pubDate>Friday, 28 March 2025 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
   
+  <item>
+   <title>Apr 2025 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The April Guest OS has released </description>
+   <pubDate>Thursday, 1 May 2025 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
+  
 </channel>
 </rss>
