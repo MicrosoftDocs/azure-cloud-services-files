@@ -709,6 +709,13 @@
    <description>The May Guest OS has released </description>
    <pubDate>Wednesday, 4 June 2025 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
+
+  <item>
+   <title>June 2025 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The June Guest OS has released </description>
+   <pubDate>Sunday, 6 July 2025 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
   
 </channel>
 </rss>
