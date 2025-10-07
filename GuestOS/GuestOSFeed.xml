@@ -730,6 +730,13 @@
    <description>The August Guest OS has released </description>
    <pubDate>Saturday, 6 September 2025 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
+
+  <item>
+   <title>September 2025 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The September Guest OS has released </description>
+   <pubDate>Monday, 6 October 2025 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
   
 </channel>
 </rss>
