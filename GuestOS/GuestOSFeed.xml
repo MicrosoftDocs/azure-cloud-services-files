@@ -801,5 +801,18 @@
    <pubDate>Tuesday, 29 June 2026 10:00:00 PST (17:00:00 UST)</pubDate>
   </item>
   
+   <item>
+   <title>July 2026 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The July Guest OS has released </description>
+   <pubDate>Friday, 14 August 2026 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
+  
+   <item>
+   <title>August 2026 Guest OS Release</title>
+   <link>https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-guestos-update-matrix</link>
+   <description>The August Guest OS has released </description>
+   <pubDate>Wednesday, 16 September 2026 10:00:00 PST (17:00:00 UST)</pubDate>
+  </item>
 </channel>
 </rss>
